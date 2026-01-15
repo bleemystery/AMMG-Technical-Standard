@@ -1,0 +1,26 @@
+## Core LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+
+## Bibliography auxiliary files
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+## Build tool auxiliary files
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.pdfsync
+
+## OS junk
+.DS_Store
+Thumbs.db
