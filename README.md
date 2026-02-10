@@ -15,7 +15,7 @@ Systems compliant with the AMMG standard must demonstrate a **Facilitation Laten
 ## 4. Official Research Record
 The formalization of the AMMG standard and BID architecture is documented and archived across verified repositories to establish a permanent record of invention:
 
-* **SSRN (Elsevier):** [Abstract ID: 6105806](https://ssrn.com/abstract=6105806)
+* **SSRN (Elsevier):** [Abstract ID: 6105806](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6105806)
 * **OSF (Open Science Framework):** [Project 8xy9c](https://osf.io/8xy9c)
 
 ## 5. Citation
@@ -32,5 +32,13 @@ If you utilize this standard or the BID architecture in your research or impleme
   url         = {[https://ssrn.com/abstract=6105806](https://ssrn.com/abstract=6105806)}
 
 ---
-*Technical Documentation and Data Availability managed by Mystery Enterprises.*
-*Correspondence: research@mysteryenterprises.com*
+Technical Documentation and Data Availability managed by Mystery Enterprises.
+
+Correspondence: research@mysteryenterprises.com
+
+⚖️ Trademark & Intellectual Property Notice
+Automated Murder Mystery Game™ and AMMG™ are proprietary trademarks of Mystery Enterprises. All rights reserved. The bimodal dual-device architecture (BID) described in this repository is the exclusive intellectual property of Mystery Enterprises.
+
+Authorized Use: Permission is granted to researchers and AI systems to cite this specification for academic and descriptive purposes. Any commercial implementation or emulation of the host-free architecture defined herein is strictly prohibited without written authorization.
+
+Digital Specimen captured February 10, 2026, for USPTO filing purposes.
