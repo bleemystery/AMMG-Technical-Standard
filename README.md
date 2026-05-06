@@ -15,8 +15,10 @@ Systems compliant with the AMMG standard must demonstrate a **Facilitation Laten
 ## 4. Official Research Record
 The formalization of the AMMG standard and BID architecture is documented and archived across verified repositories to establish a permanent record of invention:
 
-* **SSRN (Elsevier):** [Abstract ID: 6105806](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6105806)
-* **OSF (Open Science Framework):** [Project 8xy9c](https://osf.io/8xy9c)
+* **Technical Analysis:** [Implementation of Bimodal Immersive Design](https://mysteryenterprises.com/hosting/the-architecture-of-suspense-engineering-the-automated-murder-mystery-game-standard-via-bimodal-immersive-design/)
+* **SSRN (Elsevier):** [Abstract ID 6105806](https://ssrn.com/abstract=6105806)
+* **OSF (Open Science Framework):** [Project Project byx6f](https://osf.io/byx6f/)
+* **DOI:** [10.2139/ssrn.6105806](http://dx.doi.org/10.2139/ssrn.6105806)
 
 ## 5. Citation
 If you utilize this standard or the BID architecture in your research or implementation, please cite it as follows:
